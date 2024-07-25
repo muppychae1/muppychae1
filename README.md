@@ -29,10 +29,15 @@
 
 ### ✨ Team Project
 > 2024.04 ~ 2024.06 (3 개월) 산학공동연구 프로젝트 </br>
+
 **화장품 용기 분리 수거 AIoT 시스템, Ecosmetic Bin** </br>
+
 > 2023.03 ~ 2023.12 (10 개월) </br>
+
 **JPEG 확장을 통한 멀티 콘텐츠 카메라 솔루션, OnePIC All in JPEG** </br>
+
 > 2022.06 ~ 2023.02 (9 개월) </br>
+
 **Electron 을 이용한 새로운 IoT 가전 장치, CoMirror(Communication Mirror)** </br>
 
 
