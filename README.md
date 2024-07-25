@@ -13,8 +13,8 @@
 * [[논문2]](https://github.com/user-attachments/files/16242544/CoMirror.pdf) 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템의 성능평가
 * [[논문3]](https://github.com/user-attachments/files/16242568/All-in-JPEG.File.Format.as.Extension.of.JPEG.and.Its.Applications.pdf) All-in-JPEG File Format as Extension of JPEG and Its Applications
 * [[논문4]](https://github.com/user-attachments/files/16242570/JPEG.All-in-JPEG.pdf) JPEG를 확장한 멀티콘텐츠 저장 포맷 All-in-JPEG에 관한 예비 연구
-* [[논문5]](https://github.com/user-attachments/files/16242575/default.pdf) 다초점 촬영과 초점후처리 기능을 가진 스마트폰 카메라 앱 *️⃣
-* [[논문6]](https://github.com/user-attachments/files/16242576/default.pdf) 다초점 촬영과 초점후처리 기능을 가진 스마트폰 카메라 앱의 성능평가 *️⃣
+* [[논문5]](https://github.com/user-attachments/files/16242575/default.pdf) 다초점 촬영과 초점후처리 기능을 가진 스마트폰 카메라 앱 ✳️
+* [[논문6]](https://github.com/user-attachments/files/16242576/default.pdf) 다초점 촬영과 초점후처리 기능을 가진 스마트폰 카메라 앱의 성능평가 ✳️
 
 ### 🏆 Awards
 * [2024.04.30] 2024 시스코 이노베이션 챌린지 **장려상** </br>
