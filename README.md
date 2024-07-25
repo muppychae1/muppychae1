@@ -23,11 +23,19 @@
 * [2023.08.11] 제8회 한성대학교 C&C Festival(창의융합성과 경진대회) **대상** </br>
 * [2023.06.02] 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 **최우수상** </br>
 * [2023.02.20] 제7회 한성대학교 C&C Festival(창의융합성과 경진대회) **대상** </br>
-* [2022.12.15] 제20회 임베디드 SW 경진대회 자유공모 부문 기업후원 **우수상(MDS 인텔리전스 대표상)** </br>
+* [2022.12.15] 제20회 임베디드 SW 경진대회 **자유공모 부문 기업후원 우수상(MDS 인텔리전스 대표상)** </br>
 * [2022.12.15] 제20회 임베디드 SW 경진대회 **우수 연구노트 부문 특별상(성균관대학교 총장상)** </br>
 * [2022.09.23] 제18회 한성대학교 공학경진대회 **금상** </br>
 
-### ✨ Project Summary
+### ✨ Team Project
+* 화장품 용기 분리 수거 AIoT 시스템, Ecosmetic Bin
+> 2024.04 ~ 2024.06 (3 개월) 산학공동연구 프로젝트
+
+* JPEG 확장을 통한 멀티 콘텐츠 카메라 솔루션, OnePIC All in JPEG
+> 2023.03 ~ 2023.12 (10 개월)
+
+* Electron 을 이용한 새로운 IoT 가전 장치, CoMirror(Communication Mirror)
+> 2022.06 ~ 2023.02 (9 개월)
 
 <!--
 **muppychae1/muppychae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
