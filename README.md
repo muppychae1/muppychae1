@@ -6,7 +6,7 @@
 </div>
 
 ### 🎓 Education
-> 2020.03-2025.02 Senior in Computer Engineering, Hansung University
+> 2020.03 - 2025.02 Senior in Computer Engineering, Hansung University
 
 ### 📝 Publications
 * [[논문1]](https://github.com/user-attachments/files/16242504/CoMirror.pdf) 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템 구현
@@ -28,15 +28,15 @@
 * [2022.09.23] 제18회 한성대학교 공학경진대회 **금상** </br>
 
 ### ✨ Team Project
-> 2024.04 ~ 2024.06 (3 개월) 산학공동연구 프로젝트 </br>
+> 2024.04 - 2024.06 (3 개월) 산학공동연구 프로젝트 </br>
 
 **화장품 용기 분리 수거 AIoT 시스템, Ecosmetic Bin** </br>
 
-> 2023.03 ~ 2023.12 (10 개월) </br>
+> 2023.03 - 2023.12 (10 개월) </br>
 
 **JPEG 확장을 통한 멀티 콘텐츠 카메라 솔루션, OnePIC All in JPEG** </br>
 
-> 2022.06 ~ 2023.02 (9 개월) </br>
+> 2022.06 - 2023.02 (9 개월) </br>
 
 **Electron 을 이용한 새로운 IoT 가전 장치, CoMirror(Communication Mirror)** </br>
 
