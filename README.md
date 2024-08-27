@@ -28,6 +28,10 @@
 * [2022.09.23] 제18회 한성대학교 공학경진대회 **금상** </br>
 
 ### ✨ Team Project
+> 2024.08 -ing </br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;**GraphRAG 기반 프로젝트** </br>
+
 > 2024.04 - 2024.06 (3 개월) 산학공동연구 프로젝트 </br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;**화장품 용기 분리 수거 AIoT 시스템, Ecosmetic Bin** </br>
