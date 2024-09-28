@@ -28,13 +28,13 @@
 * [2022.09.23] 제18회 한성대학교 공학경진대회 **금상** </br>
 
 ### ✨ Team Project
-> 2024.08 -ing </br>
+> 2024.08 -ing SW산학협력 프로젝트 </br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**SW산학협력 프로젝트: GraphRAG를 활용한 Epub Reader** </br>
+&nbsp;&nbsp;&nbsp;&nbsp;**GraphRAG를 활용한 Epub Reader** </br>
 
 > 2024.04 - 2024.06 (3 개월) 산학공동연구 프로젝트 </br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**산학공동연구 프로젝트: 화장품 용기 분리 수거 AIoT 시스템, Ecosmetic Bin** </br>
+&nbsp;&nbsp;&nbsp;&nbsp;**화장품 용기 분리 수거 AIoT 시스템, Ecosmetic Bin** </br>
 
 > 2023.03 - 2023.12 (10 개월) </br>
 
