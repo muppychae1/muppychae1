@@ -7,6 +7,7 @@
 
 ### 🎓 Education
 > 2020.03 - 2025.02 B.Sc. in Computer Engineering, Hansung University
+> 2025.03 - Present M.Sc. in Applied Artificial Intelligence, Sungkyunkwan University
 
 ### 📝 Publications
 * [[논문1]](https://github.com/user-attachments/files/16242504/CoMirror.pdf) 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템 구현
