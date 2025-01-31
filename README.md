@@ -6,7 +6,7 @@
 </div>
 
 ### 🎓 Education
-> 2020.03 - 2025.02 B.Sc. in Computer Engineering, Hansung University
+> 2020.03 - 2025.02 B.Sc. in Computer Engineering, Hansung University </br>
 > 2025.03 - Present M.Sc. in Applied Artificial Intelligence, Sungkyunkwan University
 
 ### 📝 Publications
