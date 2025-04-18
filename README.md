@@ -1,14 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 <div align="center"> 
-  
+<!--  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuppychae1&count_bg=%23C096BA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-
+-->
 ### 🎓 Education
 > 2025.03 - Present M.Sc. in Applied Artificial Intelligence, Sungkyunkwan University </br>
 > 2020.03 - 2025.02 B.Sc. in Computer Engineering, Hansung University 
-
+<!--
 ### 📝 Publications
 * [[논문1]](https://github.com/user-attachments/files/16242504/CoMirror.pdf) 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템 구현
 * [[논문2]](https://github.com/user-attachments/files/16242544/CoMirror.pdf) 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템의 성능평가
@@ -48,7 +48,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Electron 을 이용한 새로운 IoT 가전 장치, CoMirror(Communication Mirror)** </br>
 
 
-<!--
+
 **muppychae1/muppychae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
