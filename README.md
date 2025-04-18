@@ -5,9 +5,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmuppychae1&count_bg=%23C096BA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 -->
+  
 ### 🎓 Education
 > 2025.03 - Present M.Sc. in Applied Artificial Intelligence, Sungkyunkwan University </br>
-> 2020.03 - 2025.02 B.Sc. in Computer Engineering, Hansung University 
+> 2020.03 - 2025.02 B.Sc. in Computer Engineering, Hansung University
+
 <!--
 ### 📝 Publications
 * [[논문1]](https://github.com/user-attachments/files/16242504/CoMirror.pdf) 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템 구현
