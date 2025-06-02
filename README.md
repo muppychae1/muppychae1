@@ -19,6 +19,7 @@
 * [[논문5]](https://www.earticle.net/Article/A443815) 다초점 촬영과 초점후처리 기능을 가진 스마트폰 카메라 앱 🍀
 * [[논문6]](https://www.earticle.net/Article/A448251) 다초점 촬영과 초점후처리 기능을 가진 스마트폰 카메라 앱의 성능평가 🍀
 * [[논문7]](https://www.earticle.net/Article/A462071) GraphRAG를 활용하여 뛰어난 검색과 추론 기능을 가진 EPUB 리더 🍀
+* [논문8] Implementation Details of EPUB Reader using GraphRAG
 
 ### 🏆 Awards
 * [2025.02.21] 한성대학교 **공로상** </br>
