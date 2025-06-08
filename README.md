@@ -12,14 +12,14 @@
 
 
 ### 📝 Publications
-* [[논문1]](https://kiss.kstudy.com/DetailOa/Ar?key=54126466) 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템 구현
-* [[논문2]](https://koreascience.kr/article/JAKO202318643223897.pdf) 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템의 성능평가
+* [[논문1]](https://doi.org/10.7236/JIIBC.2022.22.6.121) 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템 구현
+* [[논문2]](https://doi.org/10.7236/JIIBC.2023.23.3.51) 스마트 미러간 화상 통화와 메시징 기능을 가진 CoMirror 시스템의 성능평가
 * [[논문3]](https://github.com/user-attachments/files/16242568/All-in-JPEG.File.Format.as.Extension.of.JPEG.and.Its.Applications.pdf) All-in-JPEG File Format as Extension of JPEG and Its Applications
-* [[논문4]](https://koreascience.kr/article/JAKO202331941368700.pdf) JPEG를 확장한 멀티콘텐츠 저장 포맷 All-in-JPEG에 관한 예비 연구
-* [[논문5]](https://www.earticle.net/Article/A443815) 다초점 촬영과 초점후처리 기능을 가진 스마트폰 카메라 앱 🍀
-* [[논문6]](https://www.earticle.net/Article/A448251) 다초점 촬영과 초점후처리 기능을 가진 스마트폰 카메라 앱의 성능평가 🍀
-* [[논문7]](https://www.earticle.net/Article/A462071) GraphRAG를 활용하여 뛰어난 검색과 추론 기능을 가진 EPUB 리더 🍀
-* [논문8] Implementation Details of EPUB Reader using GraphRAG
+* [[논문4]](https://doi.org/10.7236/JIIBC.2023.23.5.183) JPEG를 확장한 멀티콘텐츠 저장 포맷 All-in-JPEG에 관한 예비 연구
+* [[논문5]](https://doi.org/10.7236/JIIBC.2024.24.1.189) 다초점 촬영과 초점후처리 기능을 가진 스마트폰 카메라 앱 🍀
+* [[논문6]](https://doi.org/10.7236/JIIBC.2024.24.2.35) 다초점 촬영과 초점후처리 기능을 가진 스마트폰 카메라 앱의 성능평가 🍀
+* [[논문7]](https://doi.org/10.7236/JIIBC.2024.24.6.29) GraphRAG를 활용하여 뛰어난 검색과 추론 기능을 가진 EPUB 리더 🍀
+* [[논문8]](https://dx.doi.org/10.7236/IJIBC.2025.17.2.223) Implementation Details of EPUB Reader using GraphRAG
 
 ### 🏆 Awards
 * [2025.06.04] 2025 Bias-A-Thon: Bias 발견 챌린지 **지능형멀티미디어연구센터장상(특별상)** </br>
