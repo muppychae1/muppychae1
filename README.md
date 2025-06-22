@@ -35,7 +35,7 @@
 * [2022.12.15] 제20회 임베디드 SW 경진대회 **자유공모 부문 기업후원 우수상(MDS 인텔리전스 대표상)** </br>
 * [2022.12.15] 제20회 임베디드 SW 경진대회 **우수 연구노트 부문 특별상(성균관대학교 총장상)** </br>
 * [2022.09.23] 제18회 한성대학교 공학경진대회 **금상** </br>
-
+<!--  
 ### ✨ Team Project
 > 2024.08 - 2024.11 (4 개월) SW산학협력 프로젝트 </br>
 
@@ -54,7 +54,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;**Electron 을 이용한 새로운 IoT 가전 장치, CoMirror(Communication Mirror)** </br>
 
 
-<!--  
+
 **muppychae1/muppychae1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
